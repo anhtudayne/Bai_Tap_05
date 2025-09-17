@@ -2,9 +2,9 @@ Một hệ thống quản lý video portal được xây dựng bằng Java Serv
 
 ## Tính năng
 
-### 1. Quản lý Categories (CRUD Danh mục)
+### 1. Quản lý Categories (CRUD Danh mục,Tìm kiếm)
 
-### 2. Quản lý Users (CRUD Người dùng)
+### 2. Quản lý Users (CRUD Người dùng,Tìm kiếm)
 
-### 3. Quản lý Videos (Tìm kiếm video)
+### 3. Quản lý Videos (CRUD Video, Tìm kiếm video)
 
